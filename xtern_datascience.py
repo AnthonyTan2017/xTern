@@ -9,9 +9,6 @@ Original file is located at
 
 pip install -U googlemaps
 
-AIzaSyCoUqQYV41COJSFft6SDChlbDZZ84SJcbc
-
-AIzaSyDyycuzhKtyHuHEOQjrVzbvjlomP65cbGk atta
 
 import pandas as pd
 df = pd.read_csv("xternDataScience.csv")
